@@ -23,7 +23,6 @@
 127.0.0.1 baobao.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 bce.baidu.com
-127.0.0.1 bce.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bdp.baidu.com
 127.0.0.1 bim.baidu.com
@@ -37,7 +36,6 @@
 127.0.0.1 campus.baidu.com
 127.0.0.1 car.baidu.com
 127.0.0.1 cas.baidu.com
-127.0.0.1 cas.baidu.com
 127.0.0.1 cbbs.baidu.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 ce.baidu.com
@@ -46,7 +44,6 @@
 127.0.0.1 cpro.baidu.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 credit.baidu.com
-127.0.0.1 crm.baidu.com
 127.0.0.1 crm.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 d.baidu.com
@@ -84,7 +81,6 @@
 127.0.0.1 dulife.baidu.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 e.baidu.com
-127.0.0.1 e.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 editor.baidu.com
 127.0.0.1 edu.baidu.com
@@ -98,7 +94,6 @@
 127.0.0.1 fex.bdstatic.com
 127.0.0.1 file.baidu.com
 127.0.0.1 finance.baidu.com
-127.0.0.1 finance.baidu.com
 127.0.0.1 fm.baidu.com
 127.0.0.1 g.baidu.com
 127.0.0.1 game.91.com
@@ -111,7 +106,6 @@
 127.0.0.1 haoma.baidu.com
 127.0.0.1 help.baidu.com
 127.0.0.1 hm.baidu.com
-127.0.0.1 hm.baidu.com
 127.0.0.1 home.baidu.com
 127.0.0.1 hot.news.baidu.com
 127.0.0.1 hpd.baidu.com
@@ -121,7 +115,6 @@
 127.0.0.1 ibr1.bdstatic.com
 127.0.0.1 ibr6.bdstatic.com
 127.0.0.1 idm.bce.baidu.com
-127.0.0.1 ihome.baidu.com
 127.0.0.1 ihome.baidu.com
 127.0.0.1 im.baidu.com
 127.0.0.1 image.baidu.com
@@ -139,11 +132,9 @@
 127.0.0.1 img3.imgtn.bdimg.com
 127.0.0.1 img4.imgtn.bdimg.com
 127.0.0.1 index.baidu.com
-127.0.0.1 index.baidu.com
 127.0.0.1 info.baidu.com
 127.0.0.1 ir.baidu.com
 127.0.0.1 iwan.baidu.com
-127.0.0.1 j.baidu.com
 127.0.0.1 j.baidu.com
 127.0.0.1 jiankang.baidu.com
 127.0.0.1 jiaoyu.baidu.com
@@ -162,7 +153,6 @@
 127.0.0.1 logo.baidu.com
 127.0.0.1 lvyou.baidu.com
 127.0.0.1 m.baidu.com
-127.0.0.1 m.baidu.com
 127.0.0.1 mall.baidu.com
 127.0.0.1 map.baidu.cn
 127.0.0.1 map.baidu.com
@@ -177,9 +167,7 @@
 127.0.0.1 mtj.baidu.com
 127.0.0.1 music.baidu.com
 127.0.0.1 mux.baidu.com
-127.0.0.1 mux.baidu.com
 127.0.0.1 naotu.baidu.com
-127.0.0.1 news.baidu.com
 127.0.0.1 news.baidu.com
 127.0.0.1 next.baidu.com
 127.0.0.1 nlbc.baidu.com
@@ -225,7 +213,6 @@
 127.0.0.1 srf.baidu.com
 127.0.0.1 ss0.bdstatic.com
 127.0.0.1 ss1.bdstatic.com
-127.0.0.1 ss1.bdstatic.com
 127.0.0.1 ssp.baidu.com
 127.0.0.1 static.t.agrantsem.com
 127.0.0.1 store.baidu.com
@@ -238,7 +225,6 @@
 127.0.0.1 tb1.bdstatic.com
 127.0.0.1 tb2.bdstatic.com
 127.0.0.1 tech.baidu.com
-127.0.0.1 test.baidu.com
 127.0.0.1 test.baidu.com
 127.0.0.1 tieba.baidu.com
 127.0.0.1 tiebapic.baidu.com
@@ -258,7 +244,6 @@
 127.0.0.1 ued.baidu.com
 127.0.0.1 union.baidu.com
 127.0.0.1 v.baidu.com
-127.0.0.1 v.baidu.com
 127.0.0.1 video.baidu.com
 127.0.0.1 vip.baidu.com
 127.0.0.1 waimai.baidu.com
@@ -274,8 +259,6 @@
 127.0.0.1 www.adtrident.com
 127.0.0.1 www.app111.com
 127.0.0.1 www.baidu.com
-127.0.0.1 www.baidu.com
-127.0.0.1 www.baifubao.com
 127.0.0.1 www.baifubao.com
 127.0.0.1 www.chuanke.com
 127.0.0.1 www.duokoo.cn
@@ -287,13 +270,11 @@
 127.0.0.1 xiangce.baidu.com
 127.0.0.1 xueshu.baidu.com
 127.0.0.1 y.baidu.com
-127.0.0.1 y.baidu.com
 127.0.0.1 yi.baidu.com
 127.0.0.1 yingbang.baidu.com
 127.0.0.1 yingxiao.baidu.com
 127.0.0.1 yinyueyun.baidu.com
 127.0.0.1 youke.baidu.com
-127.0.0.1 youxi.baidu.com
 127.0.0.1 youxi.baidu.com
 127.0.0.1 yuedu.baidu.com
 127.0.0.1 yueduqi.baidu.com
@@ -313,3 +294,4 @@
 127.0.0.1 zoo.baidu.com
 127.0.0.1 ztc.baidu.com
 127.0.0.1 zz.bdstatic.com
+
