@@ -1,7 +1,8 @@
 ##
 # You know, just for make your internet a little purer.
 #
-# Including all hosts.
+# Including all hosts but some useful sites.
+# jingyan, zhidao, wenku, pan, baike, and of course, you can login.
 ##
 
 # bdstatic.com
@@ -30,7 +31,6 @@
 127.0.0.1 dss1.bdstatic.com
 127.0.0.1 duer.bdstatic.com
 127.0.0.1 duer1.bdstatic.com
-127.0.0.1 exp.bdstatic.com
 127.0.0.1 expvideo.bdstatic.com
 127.0.0.1 fanyi.bdstatic.com
 127.0.0.1 fex.bdstatic.com
@@ -270,7 +270,6 @@
 127.0.0.1 bai.baidu.com
 127.0.0.1 baiduer.baidu.com
 127.0.0.1 baijiahao.baidu.com
-127.0.0.1 baike.baidu.com
 127.0.0.1 baishi.baidu.com
 127.0.0.1 baitong.baidu.com
 127.0.0.1 baitong2.baidu.com
@@ -907,7 +906,6 @@
 127.0.0.1 jin.baidu.com
 127.0.0.1 jing.baidu.com
 127.0.0.1 jingsuan.baidu.com
-127.0.0.1 jingyan.baidu.com
 127.0.0.1 jinqu.mp3.baidu.com
 127.0.0.1 jj.baidu.com
 127.0.0.1 job.baidu.com
@@ -1403,9 +1401,7 @@
 127.0.0.1 pa.baidu.com
 127.0.0.1 paas.baidu.com
 127.0.0.1 paiming.baidu.com
-127.0.0.1 pan.baidu.com
 127.0.0.1 panshi.baidu.com
-127.0.0.1 passport.baidu.com
 127.0.0.1 pbu.noah.baidu.com
 127.0.0.1 pcappstore.baidu.com
 127.0.0.1 pcs.baidu.com
@@ -1874,7 +1870,6 @@
 127.0.0.1 wapiknow.baidu.com
 127.0.0.1 wapmap.baidu.com
 127.0.0.1 wapp.baidu.com
-127.0.0.1 wappass.baidu.com
 127.0.0.1 wapsite.baidu.com
 127.0.0.1 wapwenku.baidu.com
 127.0.0.1 wbapi.baidu.com
@@ -1898,7 +1893,6 @@
 127.0.0.1 weirenwu.baidu.com
 127.0.0.1 weishi.baidu.com
 127.0.0.1 wenjuan.baidu.com
-127.0.0.1 wenku.baidu.com
 127.0.0.1 wenxue.baidu.com
 127.0.0.1 wenzhang.baidu.com
 127.0.0.1 wifi.baidu.com
@@ -2038,7 +2032,6 @@
 127.0.0.1 zhibo.baidu.com
 127.0.0.1 zhibo.v.baidu.com
 127.0.0.1 zhichi.baidu.com
-127.0.0.1 zhidao.baidu.com
 127.0.0.1 zhidaocommit.baidu.com
 127.0.0.1 zhidemai.baidu.com
 127.0.0.1 zhishu.baidu.com
